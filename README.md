@@ -1,8 +1,8 @@
-💼 Personal Portfolio
+💼 **Personal Portfolio**
 
 This repository presents my interactive CV and a curated showcase of projects that reflect my journey as a Frontend Developer. Built entirely with semantic HTML and modern CSS, it demonstrates my ability to craft responsive, user-friendly, and pixel-perfect interfaces.
 
-🌟 Highlights
+🌟 **Highlights**
 
 Clean & Modern UI: Crafted with Flexbox and CSS Grid to ensure fluid layouts and optimal structure.
 
@@ -14,7 +14,7 @@ Performance-Oriented: Lightweight styling for fast load times and accessibility 
 
 Showcasing Core Skills: Organized sections covering education, professional experience, and personal projects, reflecting both technical depth and creative vision.
 
-🎯 Why this project matters
+🎯 **Why this project matters**
 
 This site is more than just a résumé—it’s a living portfolio. It highlights my:
 
